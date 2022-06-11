@@ -1,6 +1,6 @@
 body{
-    
-    width: 100%;
+    width: 1920px;
+    height: 1080px;
     display: flex;
  justify-content: space-between;
  cursor: url(aim.png), default;
@@ -8,14 +8,12 @@ body{
 }
 
 .jar{
-    margin-top: 200px;
-   
+  
+   position: absolute;
    height: 145px;
    width: 147px;
    background-image: url(Drinks-02.png);
-   display: block;
-    margin-left: auto;
-    margin-right: auto;
+
     
 }
 .die {
