@@ -19,3 +19,18 @@ body{
 .die {
     transform: rotateX(86deg);
    }
+
+   .center{
+      position:absolute;
+width:100%;
+top:10%;
+text-align:center;
+   }
+
+   .center1{
+      position:absolute;
+width:100%;
+top:30%;
+
+text-align:center;
+   }
